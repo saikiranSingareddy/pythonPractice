@@ -8,3 +8,6 @@ print("hello world")
 # git add new.py --> to add a file to git
 # git commit -m 'initial commit'
 # git push origin main
+# git log --> to check all the commits
+# git checkout <commit-hash>   --> go to a particular commit or version
+# git checkout main --> to checkout to the latest version
